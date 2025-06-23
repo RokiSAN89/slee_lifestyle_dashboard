@@ -1,23 +1,29 @@
-# 🍽️ Food Personas Dashboard
+# 💤 Sleep & Lifestyle Intelligence Dashboard
 
 🔗 [Click here to view the interactive dashboard]([https://lookerstudio.google.com/reporting/adf9be8b-a64f-4755-ac3e-9cb9153483df](https://lookerstudio.google.com/reporting/adf9be8b-a64f-4755-ac3e-9cb9153483df))
 
 ## 📌 Overview  
-This project presents a data-driven segmentation of eating behaviors using visual analytics and behavioral profiling. The dashboard highlights four key food personas, helping to better understand consumer habits and wellness trends.
+This project uses data storytelling and segmentation techniques to explore how sleep duration and lifestyle choices intersect. The dashboard visualizes key behavioral trends based on individual profiles, offering actionable insights for wellness, health professionals, and digital health products.
 
 ## 🎯 Objectives  
-- Identify and visualize different bio-behavioral eating profiles  
-- Explore patterns in eating frequency, motivations, and lifestyle context  
-- Provide actionable insights for wellness, food marketing, or health-related strategies  
+- Identify key patterns between sleep quality, lifestyle, and emotional balance  
+- Visualize behavioral segments using demographic and activity-based filters  
+- Support persona-based targeting for wellness or preventive health campaigns
+
+## 🧠 Key Features  
+- 4 distinct sleep & lifestyle personas  
+- Insights into emotional states, screen time habits, sleep duration, and well-being indicators  
+- Comparative analysis by gender, age, and lifestyle type  
+- Fully interactive and user-friendly dashboard
 
 ## 🛠️ Tools Used  
-- **Google Looker Studio** – Data visualization  
-- **Python** – Data preparation and cleaning  
-- **Google Sheets** – Data source management  
-- **Canva** – Aesthetic identity and icons
+- **Google Looker Studio** – Interactive data visualization  
+- **Google Sheets** – Data storage and preparation  
+- **Python** – Initial data structuring  
+- **Canva** – Visual support and design assets
 
-## 📈 Key Insights  
-- Four distinct food personas based on behavior and psychological factors  
-- Clear visual layout for comparison between profiles  
-- Interactive charts for dynamic exploration of data  
+## 📈 Use Cases  
+- Persona-based health product design  
+- Digital wellness content creation  
+- Strategic planning for preventive healthcare or lifestyle apps
 
