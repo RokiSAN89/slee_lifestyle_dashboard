@@ -1,6 +1,6 @@
 # 💤 Sleep & Lifestyle Intelligence Dashboard
 
-🔗 [Click here to view the interactive dashboard]([https://lookerstudio.google.com/reporting/adf9be8b-a64f-4755-ac3e-9cb9153483df](https://lookerstudio.google.com/reporting/adf9be8b-a64f-4755-ac3e-9cb9153483df))
+🔗 [Click here to view the interactive dashboard]((https://lookerstudio.google.com/reporting/adf9be8b-a64f-4755-ac3e-9cb9153483df))
 
 ## 📌 Overview  
 This project uses data storytelling and segmentation techniques to explore how sleep duration and lifestyle choices intersect. The dashboard visualizes key behavioral trends based on individual profiles, offering actionable insights for wellness, health professionals, and digital health products.
